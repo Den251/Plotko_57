@@ -1,0 +1,7 @@
+﻿1, Mobile Phone, 600, just a simple mobile phone, 20
+2, Laptop, 3200, good laptop, 2
+3, Keyboard, 35, cheap keybord, 4
+4, Mouse, 10, highquality mouse, 5
+5, Pen, 1, nice pen, 4
+6, Notebook, 1, good notebook, 3
+7, Sport Car, 1000, awesome sportcar,  0
